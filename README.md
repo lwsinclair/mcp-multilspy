@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/asimihsan-mcp-multilspy-badge.png)](https://mseep.ai/app/asimihsan-mcp-multilspy)
+
 # MCP-MultilspyLSP
 
 An MCP server that exposes Language Server Protocol (LSP) capabilities through multilspy.
